@@ -35,7 +35,7 @@ To run the program, you need:
     
     Copy code
     
-    `pip install pyttsx3 customtkinter`
+    `pip install tk pyttsx3 customtkinter`
     
 3.  Run the program by executing the following command in the terminal:
     
