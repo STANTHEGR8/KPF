@@ -55,6 +55,4 @@ To run the program, you need:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://chat.openai.com/c/LICENSE) file for more details.
-
-**Note:** This is a basic readme file providing an overview and instructions for running the program. You may want to include additional sections such as installation instructions, troubleshooting, or a detailed explanation of the algorithms used, depending on your requirements and the complexity of the project.
+This project is licensed under the MIT License.
